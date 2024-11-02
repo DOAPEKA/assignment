@@ -1,6 +1,3 @@
-print("----- Welcome to the drawing system ----")
-draw_python()
-
 import turtle as t
 
 def draw_star():
